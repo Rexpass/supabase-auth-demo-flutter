@@ -6,8 +6,8 @@ void main() async {
   // supabase setup
   await Supabase.initialize(
     anonKey:
-        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind4cGVyaXVldXFsbWVxempjc2dpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzE0OTk3MzUsImV4cCI6MjA0NzA3NTczNX0.BDEzcu3vIyFmu3gxmFwj8W6S0ZPd6CcXXyz-55NmYKI",
-    url: "https://wxperiueuqlmeqzjcsgi.supabase.co",
+        "replace with your own anonKey",
+    url: "replace with your own url",
   );
   runApp(const MyApp());
 }
