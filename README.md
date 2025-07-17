@@ -19,8 +19,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/Rexpass/flutter_auth_supabase.git
-   cd flutter_auth_supabase
+   git clone https://github.com/Rexpass/supabase-auth-demo-flutter.git
+   cd supabase-auth-demo-flutter
    ```
 
 2. **Install dependencies:**
